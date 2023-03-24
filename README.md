@@ -62,6 +62,7 @@ Each foreign key column should have the same name as the column it is referencin
 
 ## Universe Database Schema Diagram
 
-![drawSQL-universe](https://user-images.githubusercontent.com/31398575/227424598-ae73c875-adae-48b4-b8d0-479c75f596e4.png)
+![drawSQL_universe](https://user-images.githubusercontent.com/31398575/227592227-9c6e59cd-62af-486f-aec5-24a59b00375e.png)
+
 
 
