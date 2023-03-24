@@ -60,6 +60,7 @@ Each primary key column should follow the naming convention table_name_id. For e
 
 Each foreign key column should have the same name as the column it is referencing
 
+## Universe Database Schema Diagram
 
 ![drawSQL-universe](https://user-images.githubusercontent.com/31398575/227424598-ae73c875-adae-48b4-b8d0-479c75f596e4.png)
 
