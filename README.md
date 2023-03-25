@@ -1,6 +1,6 @@
 # Celestial_Bodies_Database_PostgreSQL
 
-This is a freecodecamp certification project
+This is a freecodecamp Relational Database certification project
 
 # Instructions
 
