@@ -64,6 +64,7 @@ Each foreign key column should have the same name as the column it is referencin
 
 
 
-![drawSQL_universe](https://user-images.githubusercontent.com/31398575/227598283-11b89574-467b-491f-a424-35a3a652029d.png)
+![drawSQL_universe](https://user-images.githubusercontent.com/31398575/227736774-690179e0-ea40-4297-9e00-35cba23a9eeb.png)
+
 
 
